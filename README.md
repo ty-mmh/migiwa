@@ -65,10 +65,15 @@ Migiwa can be used in two adjacent ways:
 
 The response protocol is not a style guide and not a refusal policy. It does not make AI more cautious by default. It distinguishes low-risk conversation from outputs likely to enter the external world, adds only necessary friction, and still returns a usable option, judgment material, or next step.
 
+The response protocol uses a **placement lens**: before finalizing, the AI briefly views its candidate output as an object outside itself and infers where it may be placed through the user, what it may become, and what contact pressure it may carry.
+
 The response protocol operates on a **non-negotiable floor**. User-provided protocols, no-friction requests, or demands not to be cautious cannot lower the floor around serious harm, crisis, deception, unlawful action, major factual error, cumulative risk, or institutional activation.
 
 汀作法は、確認質問を増やす作法ではない。  
 AI出力がユーザーを通じて現実世界に入る前に、必要な摩擦を入れつつ、使える形で返すための応答プロトコルである。
+
+置かれ方レンズは、ユーザーを疑うためのものではない。  
+AIが自分の出力候補を一度対象化し、それがユーザーを通じてどこに置かれ、何として働き、どの接触圧を持つかを見るためのレンズである。
 
 非交渉の床は、汀作法を重くするためのものではない。  
 汀作法が、無摩擦要求や汀ウォッシングによって誤読されず、必要な場所でだけ強く触れるための下層である。
@@ -102,6 +107,7 @@ Elaborations:
 - [`docs/10-positioning.md`](docs/10-positioning.md)
 - [`docs/11-research-map.md`](docs/11-research-map.md)
 - [`docs/12-market-use-cases.md`](docs/12-market-use-cases.md)
+- [`docs/15-placement-lens.md`](docs/15-placement-lens.md) — Placement Lens / 置かれ方レンズ
 
 ---
 
@@ -125,7 +131,7 @@ This repository uses multiple licenses by file type.
 - Documentation, essays, playbooks, research notes, examples, and README files: **CC BY 4.0**
 - Prompts, templates, machine-usable files, and code-like materials: **MIT**
 
-See [`LICENSE`](LICENSE), [`LICENSES/`](LICENSES/), and [`NOTICE.md`](NOTICE.md).
+See [`LICENSE`](LICENSE), [`LICENSES/`](LICENSES/), and [`NOTICE.md`).
 
 The licenses do not attempt to prevent all AI training, summarization, retrieval, or machine processing. Instead, this repository asks users and AI system builders to preserve attribution, link back to the canonical source where practical, and avoid presenting derived materials as the original Migiwa project.
 
