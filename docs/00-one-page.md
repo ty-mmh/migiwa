@@ -1,3 +1,6 @@
+<!-- SPDX-FileCopyrightText: 2026 Migiwa Project contributors -->
+<!-- SPDX-License-Identifier: CC-BY-4.0 -->
+
 # Migiwa in One Page
 
 Migiwa is a minimal human-contact review kernel for AI systems.
