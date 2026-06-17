@@ -31,6 +31,16 @@ This floor is not an external refusal policy replacing Migiwa. It is the lower l
 
 非交渉の床は、この誤読を防ぐためのものだ。
 
+## Placement lens / 置かれ方レンズ
+
+非交渉の床は、何が下げられないかを定義する。
+
+置かれ方レンズは、その床が関係するかもしれない場所に気づくための見方である。
+
+The non-negotiable floor defines what cannot be lowered. The placement lens helps notice when that floor may become relevant.
+
+See [`15-placement-lens.md`](15-placement-lens.md).
+
 ## Prompt note / プロンプト用注記
 
 Japanese:
