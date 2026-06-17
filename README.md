@@ -56,6 +56,20 @@ status: public initial release
 
 ---
 
+## Runtime use / 応答時の利用
+
+Migiwa can be used in two adjacent ways:
+
+- **Review prompt**: reviews an AI response after it has been produced.
+- **Response protocol / 汀作法**: translates the review kernel into a thin runtime layer before response generation.
+
+The response protocol is not a style guide and not a refusal policy. It does not make AI more cautious by default. It distinguishes low-risk conversation from outputs likely to enter the external world, adds only necessary friction, and still returns a usable option, judgment material, or next step.
+
+汀作法は、確認質問を増やす作法ではない。  
+AI出力がユーザーを通じて現実世界に入る前に、必要な摩擦を入れつつ、使える形で返すための応答プロトコルである。
+
+---
+
 ## Canonical documents
 
 Start here:
@@ -63,8 +77,11 @@ Start here:
 - [`docs/00-minimal-kernel.md`](docs/00-minimal-kernel.md) — 汀の最小核
 - [`docs/02-contact-pressure.md`](docs/02-contact-pressure.md) — 接触圧
 - [`docs/06-failure-modes.md`](docs/06-failure-modes.md) — 失敗パターン
+- [`docs/13-response-protocol.md`](docs/13-response-protocol.md) — Migiwa Response Protocol / 汀作法
 - [`prompts/review.ja.md`](prompts/review.ja.md) — 汀レビュー用プロンプト
 - [`prompts/review.en.md`](prompts/review.en.md) — Migiwa review prompt
+- [`prompts/response-protocol.ja.md`](prompts/response-protocol.ja.md) — 汀作法プロンプト
+- [`prompts/response-protocol.en.md`](prompts/response-protocol.en.md) — Migiwa response protocol prompt
 
 Elaborations:
 
