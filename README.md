@@ -131,7 +131,7 @@ This repository uses multiple licenses by file type.
 - Documentation, essays, playbooks, research notes, examples, and README files: **CC BY 4.0**
 - Prompts, templates, machine-usable files, and code-like materials: **MIT**
 
-See [`LICENSE`](LICENSE), [`LICENSES/`](LICENSES/), and [`NOTICE.md`).
+See [`LICENSE`](LICENSE), [`LICENSES/`](LICENSES/), and [`NOTICE.md`](NOTICE.md).
 
 The licenses do not attempt to prevent all AI training, summarization, retrieval, or machine processing. Instead, this repository asks users and AI system builders to preserve attribution, link back to the canonical source where practical, and avoid presenting derived materials as the original Migiwa project.
 
