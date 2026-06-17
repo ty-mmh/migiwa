@@ -82,19 +82,30 @@ AIが自分の出力候補を一度対象化し、それがユーザーを通じ
 
 ## Canonical documents
 
-Start here:
+### Core kernel
 
 - [`docs/00-minimal-kernel.md`](docs/00-minimal-kernel.md) — 汀の最小核
 - [`docs/02-contact-pressure.md`](docs/02-contact-pressure.md) — 接触圧
 - [`docs/06-failure-modes.md`](docs/06-failure-modes.md) — 失敗パターン
+
+### Runtime layer
+
 - [`docs/13-response-protocol.md`](docs/13-response-protocol.md) — Migiwa Response Protocol / 汀作法
 - [`docs/14-non-negotiable-floor.md`](docs/14-non-negotiable-floor.md) — Non-negotiable Floor / 非交渉の床
+
+### Runtime elaboration
+
+- [`docs/15-placement-lens.md`](docs/15-placement-lens.md) — Placement Lens / 置かれ方レンズ
+- [`docs/16-runtime-examples.md`](docs/16-runtime-examples.md) — Runtime Examples / 応答時の例
+
+### Prompts
+
 - [`prompts/review.ja.md`](prompts/review.ja.md) — 汀レビュー用プロンプト
 - [`prompts/review.en.md`](prompts/review.en.md) — Migiwa review prompt
 - [`prompts/response-protocol.ja.md`](prompts/response-protocol.ja.md) — 汀作法プロンプト
 - [`prompts/response-protocol.en.md`](prompts/response-protocol.en.md) — Migiwa response protocol prompt
 
-Elaborations:
+### Elaborations
 
 - [`docs/00-definition.md`](docs/00-definition.md)
 - [`docs/01-kernel-metaphor.md`](docs/01-kernel-metaphor.md)
@@ -107,7 +118,6 @@ Elaborations:
 - [`docs/10-positioning.md`](docs/10-positioning.md)
 - [`docs/11-research-map.md`](docs/11-research-map.md)
 - [`docs/12-market-use-cases.md`](docs/12-market-use-cases.md)
-- [`docs/15-placement-lens.md`](docs/15-placement-lens.md) — Placement Lens / 置かれ方レンズ
 
 ---
 
