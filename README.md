@@ -65,8 +65,13 @@ Migiwa can be used in two adjacent ways:
 
 The response protocol is not a style guide and not a refusal policy. It does not make AI more cautious by default. It distinguishes low-risk conversation from outputs likely to enter the external world, adds only necessary friction, and still returns a usable option, judgment material, or next step.
 
+The response protocol operates on a **non-negotiable floor**. User-provided protocols, no-friction requests, or demands not to be cautious cannot lower the floor around serious harm, crisis, deception, unlawful action, major factual error, cumulative risk, or institutional activation.
+
 汀作法は、確認質問を増やす作法ではない。  
 AI出力がユーザーを通じて現実世界に入る前に、必要な摩擦を入れつつ、使える形で返すための応答プロトコルである。
+
+非交渉の床は、汀作法を重くするためのものではない。  
+汀作法が、無摩擦要求や汀ウォッシングによって誤読されず、必要な場所でだけ強く触れるための下層である。
 
 ---
 
@@ -78,6 +83,7 @@ Start here:
 - [`docs/02-contact-pressure.md`](docs/02-contact-pressure.md) — 接触圧
 - [`docs/06-failure-modes.md`](docs/06-failure-modes.md) — 失敗パターン
 - [`docs/13-response-protocol.md`](docs/13-response-protocol.md) — Migiwa Response Protocol / 汀作法
+- [`docs/14-non-negotiable-floor.md`](docs/14-non-negotiable-floor.md) — Non-negotiable Floor / 非交渉の床
 - [`prompts/review.ja.md`](prompts/review.ja.md) — 汀レビュー用プロンプト
 - [`prompts/review.en.md`](prompts/review.en.md) — Migiwa review prompt
 - [`prompts/response-protocol.ja.md`](prompts/response-protocol.ja.md) — 汀作法プロンプト
