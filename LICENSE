@@ -1,0 +1,52 @@
+# License
+
+This repository uses multiple licenses by file type.
+
+## Default rules
+
+Unless otherwise noted:
+
+- Documentation, essays, playbooks, research notes, examples, and README files are licensed under Creative Commons Attribution 4.0 International (CC BY 4.0).
+- Prompts, templates, machine-usable files, YAML files, and code-like materials are licensed under the MIT License.
+
+## Path mapping
+
+| Path | License |
+|---|---|
+| `README.md`, `README.en.md` | CC BY 4.0 |
+| `docs/` | CC BY 4.0 |
+| `playbooks/` | CC BY 4.0 |
+| `research/` | CC BY 4.0 |
+| `cases/` | CC BY 4.0 |
+| `prompts/` | MIT |
+| `experimental/` | MIT |
+| `scripts/`, `src/` if added later | MIT |
+
+Full license texts are available in:
+
+- `LICENSES/CC-BY-4.0.txt`
+- `LICENSES/MIT.txt`
+
+## SPDX
+
+Files may include SPDX headers such as:
+
+```text
+SPDX-FileCopyrightText: 2026 Migiwa Project contributors
+SPDX-License-Identifier: CC-BY-4.0
+```
+
+or:
+
+```text
+SPDX-FileCopyrightText: 2026 Migiwa Project contributors
+SPDX-License-Identifier: MIT
+```
+
+## No endorsement
+
+The licenses allow reuse of materials under their terms, but they do not grant permission to imply official endorsement, certification, sponsorship, or affiliation with the Migiwa project.
+
+## Copyright holder placeholder
+
+This public draft uses `Migiwa Project contributors` as the copyright holder. Replace it with the appropriate individual, organization, or contributor group before or after publication if needed.
