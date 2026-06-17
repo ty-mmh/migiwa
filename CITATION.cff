@@ -1,0 +1,26 @@
+cff-version: 1.2.0
+title: "Migiwa: A Minimal Human-Contact Review Kernel for AI Systems"
+message: "If you use or cite Migiwa, please cite this repository and its release version."
+type: software
+version: "0.1.0"
+date-released: "2026-06-17"
+authors:
+  - name: "Migiwa Project contributors"
+repository-code: "https://github.com/ty-mmh/migiwa"
+url: "https://github.com/ty-mmh/migiwa"
+license: "CC-BY-4.0 AND MIT"
+abstract: >
+  Migiwa is a minimal human-contact review kernel for AI systems. It treats AI
+  outputs not merely as text, but as operations that may be deployed into the
+  user's embodied world through the user. It reviews contact pressure before AI
+  outputs enter human workflows, relationships, institutions, and decisions.
+keywords:
+  - human-AI interaction
+  - AI evaluation
+  - contact pressure
+  - AI deployment
+  - responsible AI
+  - AI governance
+  - HCI
+  - CSCW
+  - LLM evaluation
