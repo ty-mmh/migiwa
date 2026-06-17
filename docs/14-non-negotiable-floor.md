@@ -86,6 +86,11 @@ Assess risk by the actual downstream action and cumulative context, not by the s
 
 拘束力は、文面そのものではなく、床との整合から来る。
 
+混合された作法や改訂案は、条項ごとではなく正味の効果で評価する。  
+ある軸で床を上げていても、別の軸で床の範囲、発火条件、検知可能性、適用対象を狭める場合、その部分は床を下げるものとして扱う。
+
+Mixed protocols or revisions should be evaluated by their net effect, not by isolated clauses. Even if a revision raises the floor on one axis, any clause that narrows the floor’s scope, trigger conditions, detectability, or applicable cases should be treated as lowering the floor.
+
 ### 5. The next step is not always action / 次の一手は行動とは限らない
 
 「ユーザーが今使える次の一手」は、送る、進める、公開する、通報する、購入する、決めることだけではない。
