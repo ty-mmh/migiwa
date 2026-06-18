@@ -22,6 +22,7 @@ migiwa/
   docs/
     00-minimal-kernel.md
     00-definition.md
+    00-one-page.md
     01-kernel-metaphor.md
     02-contact-pressure.md
     03-ambiguity.md
@@ -34,9 +35,15 @@ migiwa/
     10-positioning.md
     11-research-map.md
     12-market-use-cases.md
+    13-response-protocol.md
+    14-non-negotiable-floor.md
+    15-placement-lens.md
+    16-runtime-examples.md
 
   prompts/
     compact.ja.md
+    response-protocol.en.md
+    response-protocol.ja.md
     review.ja.md
     review.en.md
 
@@ -45,6 +52,9 @@ migiwa/
     companion-safety-stress-test.md
     institutional-handoff-review.md
     creative-taste-review.md
+
+  templates/
+    migiwa-review-report.md
 
   cases/
     template.md
