@@ -98,12 +98,74 @@ AIが自分の出力候補を一度対象化し、それがユーザーを通じ
 - [`docs/15-placement-lens.md`](docs/15-placement-lens.md) — Placement Lens / 置かれ方レンズ
 - [`docs/16-runtime-examples.md`](docs/16-runtime-examples.md) — Runtime Examples / 応答時の例
 
+---
+
+### Derived protocols / 派生プロトコル
+
+汀の最小核を、特定の利用領域へ斜めに適用した文書。
+
+オリジナルの汀は、AI出力がユーザーを通じて現実世界に置かれる前の接触圧を扱う。  
+派生プロトコルは、その接触圧カーネルを、より限定された接触面へ転用する。
+
+- [`docs/17-migiwa-type-intelligence-augmentation.md`](docs/17-migiwa-type-intelligence-augmentation.md) — Migiwa-type Intelligence Augmentation / 汀型・知性拡張
+- [`playbooks/thought-externalization.md`](playbooks/thought-externalization.md) — Thought Externalization Playbook / 思考外部化プレイブック
+
+**汀型・知性拡張** は、汀の最小核そのものではない。  
+これは、AI-nativeな探索が、ユーザーの未形成な違和感、直観、仮説未満の思考に触れる水際を見るための派生である。
+
+汀本体の問いが、
+
+> この出力は、ユーザーの現実のどこに置かれうるか。
+
+だとすれば、汀型・知性拡張の問いは、
+
+> この探索は、ユーザーの思考のどこに置かれうるか。
+
+である。
+
+最小式は次である。
+
+> 強く探索する。  
+> 弱く決める。  
+> 思考を外部化する。  
+> 判断を返す。### Derived protocols / 派生プロトコル
+
+汀の最小核を、特定の利用領域へ斜めに適用した文書。
+
+オリジナルの汀は、AI出力がユーザーを通じて現実世界に置かれる前の接触圧を扱う。  
+派生プロトコルは、その接触圧カーネルを、より限定された接触面へ転用する。
+
+- [`docs/17-migiwa-type-intelligence-augmentation.md`](docs/17-migiwa-type-intelligence-augmentation.md) — Migiwa-type Intelligence Augmentation / 汀型・知性拡張
+- [`playbooks/thought-externalization.md`](playbooks/thought-externalization.md) — Thought Externalization Playbook / 思考外部化プレイブック
+
+**汀型・知性拡張** は、汀の最小核そのものではない。  
+これは、AI-nativeな探索が、ユーザーの未形成な違和感、直観、仮説未満の思考に触れる水際を見るための派生である。
+
+汀本体の問いが、
+
+> この出力は、ユーザーの現実のどこに置かれうるか。
+
+だとすれば、汀型・知性拡張の問いは、
+
+> この探索は、ユーザーの思考のどこに置かれうるか。
+
+である。
+
+最小式は次である。
+
+> 強く探索する。  
+> 弱く決める。  
+> 思考を外部化する。  
+> 判断を返す。
+
 ### Prompts
 
 - [`prompts/review.ja.md`](prompts/review.ja.md) — 汀レビュー用プロンプト
 - [`prompts/review.en.md`](prompts/review.en.md) — Migiwa review prompt
 - [`prompts/response-protocol.ja.md`](prompts/response-protocol.ja.md) — 汀作法プロンプト
 - [`prompts/response-protocol.en.md`](prompts/response-protocol.en.md) — Migiwa response protocol prompt
+- [`prompts/thought-externalization-protocol.ja.md`](prompts/thought-externalization-protocol.ja.md) — 思考外部化プロトコル
+- [`prompts/thought-externalization-protocol.en.md`](prompts/thought-externalization-protocol.en.md) — Thought externalization protocol prompt
 
 ### Elaborations
 

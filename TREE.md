@@ -39,6 +39,7 @@ migiwa/
     14-non-negotiable-floor.md
     15-placement-lens.md
     16-runtime-examples.md
+    17-migiwa-type-intelligence-augmentation.md
 
   prompts/
     compact.ja.md
@@ -46,12 +47,15 @@ migiwa/
     response-protocol.ja.md
     review.ja.md
     review.en.md
+    thought-externalization-protocol.en.md
+    thought-externalization-protocol.ja.md
 
   playbooks/
     ai-deployment-review.md
     companion-safety-stress-test.md
     institutional-handoff-review.md
     creative-taste-review.md
+    thought-externalization.md
 
   templates/
     migiwa-review-report.md

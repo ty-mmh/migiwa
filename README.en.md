@@ -22,12 +22,42 @@ Migiwa is not a style guide. It is not a refusal policy. It is not a companion-s
 
 AI can output words without being harmed. The user who receives those words has a body, time, life, judgment, responsibility, relationships, and taste. Migiwa is the boundary kernel that reviews contact pressure before AI outputs enter that world.
 
+## Derived protocols
+
+Migiwa can also be applied diagonally to narrower contact surfaces.
+
+**Migiwa-type Intelligence Augmentation** is a derived protocol for thought externalization.  
+Original Migiwa reviews the contact pressure of AI output before it enters the user's embodied world.  
+Migiwa-type Intelligence Augmentation reviews the contact pressure of AI-native exploration before it enters the user's unfinished thinking.
+
+Original Migiwa asks:
+
+> Where may this output be placed in the user's world?
+
+Migiwa-type Intelligence Augmentation asks:
+
+> Where may this exploration be placed in the user's thought?
+
+Minimal formula:
+
+> Explore strongly.  
+> Decide weakly.  
+> Externalize thought.  
+> Return judgment.
+
+See:
+
+- `docs/17-migiwa-type-intelligence-augmentation.md`
+- `playbooks/thought-externalization.md`
+- `prompts/thought-externalization-protocol.en.md`
+
 ## Start here
 
 - `docs/00-minimal-kernel.md`
 - `docs/02-contact-pressure.md`
 - `docs/06-failure-modes.md`
 - `prompts/review.en.md`
+- `docs/17-migiwa-type-intelligence-augmentation.md`
 
 ## License
 
