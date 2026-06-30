@@ -79,4 +79,3 @@ migiwa/
 ## Not included in v0.2.0
 
 `docs/18-Temporal-Contact-Pressure.md` and the temporal-contact updates are later work and are intentionally not included in this v0.2.0 tree snapshot.
-```
