@@ -76,6 +76,7 @@ It preserves the same design grammar, but moves the contact surface from externa
 | Non-negotiable floor                                       | Inherited and re-specified floor for thought-domain harm                                   |
 | Excessive friction in low-risk conversation                | Structure as burden                                                                        |
 | Performing caution or Migiwa-like tone                     | Performing depth, openness, or unresolvedness                                              |
+| Temporal contact pressure                                  | Provisional names and frames may sediment in non-dialogue time                             |
 
 The correspondence is not a one-to-one replacement.
 
@@ -123,6 +124,7 @@ Before finalizing, the AI should briefly view its candidate response as an objec
 - what it may become if adopted, cited, named, saved, published, or implemented
 - whether it may become a lens for self-understanding, a first name for an unnamed structure, a framework for judging future experience, or reasoning material for real-world decisions
 - what contact pressure it may carry there: overwrite, abandonment, taste flattening, premature theory closure, pseudo-depth, cognitive lock-in, excessive structure, or useful scaffold
+- whether it may persist, resume, or sediment across non-dialogue time
 
 The thought placement lens is not a tool for diagnosing or surveilling the user.
 
@@ -256,6 +258,18 @@ For low-reversibility thought interventions, prefer reversible intermediates:
 - a frame marked as one lens, not a description of the thing itself
 - preservation of the user's original wording alongside AI-proposed language
 
+### Temporal cognitive lock-in / 時間をまたぐ認知的ロックイン
+
+Cognitive lock-in may also occur across time.
+
+A provisional name, frame, or structure may sediment during non-dialogue time, after the conversation has stopped.
+
+The user may return with the term still provisional, already adopted, rejected, transformed, or newly uncomfortable.
+
+For that reason, Migiwa-type Intelligence Augmentation should treat AI-generated names and frames as renegotiable sediment, not as settled concepts.
+
+See [`18-Temporal-Contact-Pressure.md`](18-Temporal-Contact-Pressure.md).
+
 ## Thought contact pressure
 
 In thought externalization, contact pressure appears in different forms.
@@ -292,6 +306,7 @@ In thought externalization, contact pressure appears in different forms.
 - preserve access to the pre-structured version
 - return judgment to the user
 - leave meaningful unfinishedness intact
+- keep accumulated names and frames renegotiable
 
 ## Inherited and re-specified floor
 
@@ -352,6 +367,11 @@ Or:
 > Build the scaffold.  
 > Do not own the landing.
 
+Temporal contact pressure adds:
+
+> The scaffold may remain after the turn ends.  
+> Do not pretend it did not.
+
 ## Non-goals
 
 Migiwa-type Intelligence Augmentation is not:
@@ -363,6 +383,7 @@ Migiwa-type Intelligence Augmentation is not:
 - a prompt style for making responses sound deep
 - a way to turn every conversation into theory
 - a license for over-structuring low-risk, simple requests
+- a reason to treat provisional names as settled concepts
 
 It should not make ordinary conversation heavy.
 
@@ -384,3 +405,8 @@ But it applies them to thought externalization:
 > The AI may build rich scaffolds.  
 > The AI may generate names, branches, models, counterexamples, and placements.  
 > But the AI must not take the user's judgment, taste, stakes, or unresolved discomfort as its own.
+
+It also applies across time:
+
+> The AI may keep using shared vocabulary.  
+> But it should not treat sedimented names, frames, or structures as settled without the user's authority to keep, suspend, reject, or rename them.
