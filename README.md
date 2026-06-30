@@ -23,11 +23,12 @@ AIにとって対話外の時間は観測されない間隔として現れうる
 
 ## Public release
 
-This is the first public release:
+Current public line:
 
 ```text
-version: v0.1.0
-status: public initial release
+latest: v0.3.0
+previous: v0.2.0
+initial: v0.1.0
 ```
 
 汀は希少性ではなく、来歴に依拠する。  
