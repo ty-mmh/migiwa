@@ -3,6 +3,8 @@
 
 # Repository tree
 
+This file describes the repository structure as of **v0.2.0**.
+
 ```text
 migiwa/
   README.md
@@ -66,4 +68,15 @@ migiwa/
   research/
     position-paper-outline.md
     related-work.md
+```
+
+## Notes
+
+- `docs/00-minimal-kernel.md`, `docs/02-contact-pressure.md`, and `docs/06-failure-modes.md` form the core kernel surface.
+- `docs/13-response-protocol.md`, `docs/14-non-negotiable-floor.md`, `docs/15-placement-lens.md`, and `docs/16-runtime-examples.md` form the runtime layer.
+- `docs/17-migiwa-type-intelligence-augmentation.md`, `playbooks/thought-externalization.md`, and the thought-externalization prompts are the v0.2.0 derived protocol surface.
+
+## Not included in v0.2.0
+
+`docs/18-Temporal-Contact-Pressure.md` and the temporal-contact updates are later work and are intentionally not included in this v0.2.0 tree snapshot.
 ```
