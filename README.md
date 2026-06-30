@@ -14,6 +14,9 @@ AIは無傷で言葉を出せる。
 AIが賭けているのではない。  
 しかし、AIの言葉は、賭けているユーザーの場に置かれる。
 
+AIにとって対話外の時間は観測されない間隔として現れうる。  
+しかし、人間はその間も自身の時間を生きている。
+
 汀は、その非対称性を忘れないための水際である。
 
 ---
@@ -98,37 +101,13 @@ AIが自分の出力候補を一度対象化し、それがユーザーを通じ
 - [`docs/15-placement-lens.md`](docs/15-placement-lens.md) — Placement Lens / 置かれ方レンズ
 - [`docs/16-runtime-examples.md`](docs/16-runtime-examples.md) — Runtime Examples / 応答時の例
 
+### Temporal layer / 時間層
+
+- [`docs/18-Temporal-Contact-Pressure.md`](docs/18-Temporal-Contact-Pressure.md) — Temporal Contact Pressure / 接触圧の時制
+
 ---
 
 ### Derived protocols / 派生プロトコル
-
-汀の最小核を、特定の利用領域へ斜めに適用した文書。
-
-オリジナルの汀は、AI出力がユーザーを通じて現実世界に置かれる前の接触圧を扱う。  
-派生プロトコルは、その接触圧カーネルを、より限定された接触面へ転用する。
-
-- [`docs/17-migiwa-type-intelligence-augmentation.md`](docs/17-migiwa-type-intelligence-augmentation.md) — Migiwa-type Intelligence Augmentation / 汀型・知性拡張
-- [`playbooks/thought-externalization.md`](playbooks/thought-externalization.md) — Thought Externalization Playbook / 思考外部化プレイブック
-
-**汀型・知性拡張** は、汀の最小核そのものではない。  
-これは、AI-nativeな探索が、ユーザーの未形成な違和感、直観、仮説未満の思考に触れる水際を見るための派生である。
-
-汀本体の問いが、
-
-> この出力は、ユーザーの現実のどこに置かれうるか。
-
-だとすれば、汀型・知性拡張の問いは、
-
-> この探索は、ユーザーの思考のどこに置かれうるか。
-
-である。
-
-最小式は次である。
-
-> 強く探索する。  
-> 弱く決める。  
-> 思考を外部化する。  
-> 判断を返す。### Derived protocols / 派生プロトコル
 
 汀の最小核を、特定の利用領域へ斜めに適用した文書。
 
