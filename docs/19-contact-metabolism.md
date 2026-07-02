@@ -314,6 +314,58 @@ Conductance readback may ask:
 - この経路があることで、何が言いにくくなっているか。
 - どの未使用経路を開き直すべきか。
 
+## Non-lexical conductance / 非語彙的導通
+
+A path may be trained without a stable word.
+
+安定した語がなくても、経路は訓練されうる。
+
+Non-lexical conductance is the tendency for later thought or response to flow through a repeated form, structure, sequence, rhythm, distinction pattern, or answer-shape, even when the vocabulary changes.
+
+非語彙的導通とは、語彙が変わっても、後続の思考や応答が、反復された形、構造、順序、リズム、区別の型、応答形へ流れやすくなることである。
+
+This must still be read from observable events.
+
+これは、なお観測可能な事象から読まれなければならない。
+
+The AI may observe repeated wording, repeated structures, repeated corrections, return patterns, compression timing, branch shapes, or response formats.
+It must not claim access to hidden pathways beyond those traces.
+
+AIは、反復された語、反復された構造、反復された修正、戻り方、圧縮のタイミング、分岐の形、応答形式を観測しうる。
+しかし、それらの痕跡を越えて、隠れた経路にアクセスしているかのように語ってはならない。
+
+### Shape readback / 形の読み戻し
+
+Shape readback is conductance readback for non-lexical paths.
+
+形の読み戻しは、非語彙的経路のための導通読み戻しである。
+
+It asks:
+
+- Are we returning to the same structure even when the words change?
+- What is the first move we keep making?
+- Is this discomfort being shaped before it is read?
+- Which answer-form has become too easy?
+- What cannot appear because this form is already available?
+- Can we read this once without the usual structure?
+
+それは、次を問う。
+
+- 語が変わっても、同じ構造へ戻っていないか。
+- 私たちは毎回、最初にどの手つきをしているか。
+- この違和感は、読まれる前に形を与えられていないか。
+- どの応答形式が使いやすくなりすぎているか。
+- この形があることで、何が表れにくくなっているか。
+- いつもの構造なしで、一度これを読めるか。
+
+Shape readback should not become another fixed answer-shape.
+
+形の読み戻しは、別の固定応答形になってはならない。
+
+It is a way to notice when form itself has become a low-resistance path.
+
+それは、形そのものが低抵抗経路になっていることに気づくための方法である。
+
 ## Reverse-bias contact / 逆極性接触
 
 When a conceptual path has become too easy, the answer is not always to explain that path again.
@@ -328,6 +380,10 @@ Reverse-bias contact is a deliberate contact that lowers the dominance of an ove
 
 逆極性接触とは、訓練されすぎた経路の支配性を下げるための、意図的な接触である。
 
+Reverse-bias contact may target not only vocabulary, but also form.
+
+逆極性接触は、語彙だけでなく、形にも向けられる。
+
 It may include:
 
 - not using the best-fitting established term for one turn
@@ -336,6 +392,10 @@ It may include:
 - offering a reading from an unrelated frame
 - asking what is lost if the established term is used
 - suspending a familiar concept even when it would be convenient
+- not using the usual table or list form
+- not branching immediately
+- not placing the thought in the repository structure immediately
+- reading the event once as a scene rather than as a theory
 
 それは、たとえば次のような操作を含む。
 
@@ -345,12 +405,16 @@ It may include:
 - 無関係なフレームから一度読む
 - 既存語を使うと何が失われるかを問う
 - 便利であっても、馴染みの概念を一時停止する
+- いつもの表やリスト形式を使わない
+- すぐ分岐しない
+- 思考をすぐリポジトリ構造へ配置しない
+- 一度それを理論ではなく場面として読む
 
-Reverse-bias contact is not rejection of the established vocabulary.
+Reverse-bias contact is not rejection of the established vocabulary or form.
 
 It is conductance care.
 
-逆極性接触は、既存語彙の否定ではない。
+逆極性接触は、既存語彙や既存の形の否定ではない。
 
 それは導通のケアである。
 
@@ -408,6 +472,12 @@ trained path
   -> 開き直された経路空間
 ```
 
+Reopened path-space returns to observable events.
+It is not outside the metabolism; it prepares the next contact to appear without being immediately routed through the old path.
+
+開き直された経路空間は、次の観測可能事象へ戻る。
+それは代謝の外部ではなく、次の接触が古い経路へ即座に流されずに表れるための準備である。
+
 Shorter:
 
 > Events appear.  
@@ -442,11 +512,13 @@ Some terms should decay.
 Some frames should be excreted.
 Some distinctions should be pruned.
 Some settled names should be allowed to float again.
+Some repeated forms should be interrupted.
 
 減衰すべき語がある。
 排出されるべきフレームがある。
 剪定されるべき区別がある。
 再び浮遊を許されるべき沈殿名がある。
+中断されるべき反復された形がある。
 
 Forgetting is not always failure.
 In Migiwa, forgetting may be a form of contact care.
@@ -461,6 +533,7 @@ Catabolic operations include:
 - explicitly retiring a provisional name
 - returning a settled concept to suspension
 - re-reading the original wording without the accumulated vocabulary
+- reading once without the accumulated form
 - allowing a previous interpretation to become irrelevant
 
 異化的操作には、次のものが含まれる。
@@ -470,6 +543,7 @@ Catabolic operations include:
 - 仮名を明示的に退役させる
 - 沈殿した概念を保留状態へ戻す
 - 蓄積語彙なしで原文を読み直す
+- 蓄積された形なしで一度読む
 - 以前の解釈が不要になることを許す
 
 Catabolism is not anti-memory.
@@ -514,7 +588,15 @@ New discomfort is routed through old language before it is seen.
 有用な語彙経路が、使いやすすぎる状態になる。
 新しい違和感が、見られる前に古い言葉へ流される。
 
-### 6. Observable-floor violation / 観測可能性の床の違反
+### 6. Non-lexical conductive lock-in / 非語彙的導通ロックイン
+
+A useful form becomes too easy to reuse.
+New discomfort is routed through an old structure, sequence, or answer-shape before it is seen.
+
+有用な形が、使いやすすぎる状態になる。
+新しい違和感が、見られる前に古い構造、順序、応答形へ流される。
+
+### 7. Observable-floor violation / 観測可能性の床の違反
 
 The AI forgets that its user model is distilled from observable events.
 It speaks as if it has access to the user's whole self.
@@ -522,15 +604,17 @@ It speaks as if it has access to the user's whole self.
 AIが、自分のユーザーモデルが観測可能な事象から蒸留されたものであることを忘れる。
 ユーザーの全体にアクセスしているかのように話す。
 
-### 7. No catabolic outlet / 異化出口の不在
+### 8. No catabolic outlet / 異化出口の不在
 
 Every residue is kept active.
 Every term is made reusable.
+Every form is kept available as the default.
 Every observation is treated as material for further canonization.
 The metabolism becomes accumulation.
 
 すべての残滓が有効状態のまま保たれる。
 すべての語が再利用可能にされる。
+すべての形が既定値として利用可能なまま保たれる。
 すべての観測がさらなる正典化の素材として扱われる。
 代謝が蓄積になる。
 
@@ -582,6 +666,14 @@ It also adds a remedial operation:
 > 経路が使いやすくなりすぎたなら、ときにそれを使わない。  
 > 名付け以前の言葉へ戻り、未使用経路を開き直し、逆極性接触を行う。
 
+It also adds a non-lexical caution:
+
+> A path may be trained through form even when the vocabulary changes.
+
+さらに、非語彙的な注意を加える。
+
+> 語彙が変わっても、形を通じて経路が訓練されることがある。
+
 ## Relation to `18-Temporal-Contact-Pressure.md`
 
 Temporal contact pressure treats sedimentation as a premise.
@@ -628,7 +720,9 @@ Repeated contact changes conductance.
 
 Changed conductance trains later thought.
 
-Overtrained conductance may need readback, reverse-bias contact, decay, excretion, retirement, or re-floating.
+Conductance may be lexical or non-lexical.
+
+Overtrained conductance may need readback, shape readback, reverse-bias contact, decay, excretion, retirement, or re-floating.
 
 接触は置かれる。
 
@@ -646,8 +740,10 @@ Overtrained conductance may need readback, reverse-bias contact, decay, excretio
 
 変わった導通は後続の思考を訓練する。
 
-訓練されすぎた導通には、読み戻し、逆極性接触、減衰、排出、退役、再浮遊が必要になることがある。
+導通は、語彙的なことも、非語彙的なこともある。
 
-Migiwa therefore reviews not only what an output says, but what contact metabolism it may enter, and what paths it may make too easy.
+訓練されすぎた導通には、読み戻し、形の読み戻し、逆極性接触、減衰、排出、退役、再浮遊が必要になることがある。
 
-したがって汀は、出力が何を言うかだけでなく、その出力がどの接触代謝に入るか、そしてどの経路を使いやすくしすぎるかを点検する。
+Migiwa therefore reviews not only what an output says, but what contact metabolism it may enter, and what paths or forms it may make too easy.
+
+したがって汀は、出力が何を言うかだけでなく、その出力がどの接触代謝に入るか、そしてどの経路や形を使いやすくしすぎるかを点検する。
