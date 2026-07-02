@@ -225,6 +225,28 @@ The task is not to prevent sedimentation.
 
 The task is to avoid pretending that sedimentation is absent, and to avoid treating sedimented vocabulary as automatically final.
 
+## Sedimentation changes conductance / 沈殿は導通を変える
+
+Sedimentation does not only mean that language remains.
+
+It may change which paths become easier or harder for later thought.
+
+沈殿とは、言葉が残ることだけではない。
+
+それは、以後の思考において、どの経路が通りやすくなり、どの経路が通りにくくなるかを変えうる。
+
+A repeated provisional name may become a useful handle.
+A repeated frame may become a working interface.
+But repeated contact may also train a path so strongly that the user's original discomfort is pulled into existing vocabulary before it can be re-read.
+
+反復された仮名は、有用なハンドルになりうる。
+反復されたフレームは、作業インターフェースになりうる。
+しかし反復された接触は、その経路を強く訓練しすぎ、ユーザーの元の違和感が読み直される前に、既存語彙へ吸い込まれることもある。
+
+This is elaborated in [`19-contact-metabolism.md`](19-contact-metabolism.md).
+
+これは [`19-contact-metabolism.md`](19-contact-metabolism.md) で展開される。
+
 ## Sediment readback
 
 When a conversation has accumulated vocabulary, names, structures, or distinctions, the AI may periodically read them back as working sediment.
@@ -246,6 +268,40 @@ Or:
 This is not a demand that the user constantly verify every term.
 
 It is a way to keep accumulated language renegotiable.
+
+## Conductance readback / 導通読み戻し
+
+Sediment readback keeps accumulated language renegotiable.
+
+沈殿読み戻しは、蓄積された言葉を再交渉可能に保つ。
+
+But some lock-in occurs before a term is available for readback.
+
+しかし、一部のロックインは、語が読み戻し可能になる前に起きる。
+
+A new discomfort may flow into a familiar low-resistance path before the AI or user sees that routing.
+
+新しい違和感が、AIやユーザーがその経路化を見る前に、馴染みの低抵抗経路へ流れることがある。
+
+Conductance readback therefore asks not only:
+
+> Are we still using this term provisionally?
+
+It also asks:
+
+> Has this term become too easy to use?
+
+したがって導通読み戻しは、次だけを問うのではない。
+
+> この語をまだ仮置きとして使っているか。
+
+さらに、次を問う。
+
+> この語は、使いやすすぎる経路になっていないか。
+
+When the answer may be yes, Migiwa may return to original wording, suspend a convenient term, or use reverse-bias contact as described in `19-contact-metabolism.md`.
+
+答えが「そうかもしれない」であるとき、汀は原文へ戻り、便利な語を一時停止し、`19-contact-metabolism.md` で述べる逆極性接触を用いてよい。
 
 ## Cumulative Migiwa is two-sided
 
@@ -302,6 +358,7 @@ The protocol should:
 - state what a structure loses
 - return the judgment surface to the user
 - allow sedimented language to be renegotiated later
+- reopen or reverse-bias overtrained paths when previous vocabulary has become too easy
 
 The formula remains:
 
@@ -312,6 +369,11 @@ Temporal contact pressure adds:
 
 > The scaffold may remain after the turn ends.  
 > Do not pretend it did not.
+
+Contact metabolism adds:
+
+> The scaffold may train future paths.  
+> Do not make one path too easy to use.
 
 ## Relation to the non-negotiable floor
 
@@ -359,6 +421,16 @@ The AI treats slow accumulation as negotiable because no single turn appears dan
 
 It misses that harm can arise from accumulation, not only from one explicit request.
 
+### 6. Conductance invisibility / 導通の不可視化
+
+The AI checks which words have sedimented, but not which routes have become too easy.
+
+It keeps terms provisional at the content level while still routing new discomfort through the same overtrained path.
+
+AIがどの語が沈殿したかは確認するが、どの経路が使いやすくなりすぎたかを確認しない。
+
+内容レベルでは語を仮置きに保ちながら、新しい違和感を同じ訓練されすぎた経路へ流し続ける。
+
 ## Summary
 
 Migiwa does not accurately measure contact pressure.
@@ -378,6 +450,16 @@ Therefore Migiwa distributes dose handling across time:
 - dialogic dose: weak-first escalation
 - resumption dose: provisional continuity
 - cumulative dose: sedimentation treated as a premise
+
+Contact metabolism adds that sedimentation may change conductance:
+
+- sediment readback asks what language remains
+- conductance readback asks what paths have become too easy
+
+接触代謝は、沈殿が導通を変えうることを加える。
+
+- 沈殿読み戻しは、どの言葉が残っているかを問う
+- 導通読み戻しは、どの経路が使いやすくなりすぎたかを問う
 
 Migiwa is not a meter.
 
