@@ -314,6 +314,56 @@ Conductance readback may ask:
 - この経路があることで、何が言いにくくなっているか。
 - どの未使用経路を開き直すべきか。
 
+### Smooth fit as an alarm / 滑らかすぎる適合をアラームにする
+
+Smooth fit is not itself failure.
+
+滑らかな適合は、それ自体では失敗ではない。
+
+A shared term or form may fit because it has genuinely become useful.
+
+共有された語や形は、それが実際に有用になったからこそ、よく適合することがある。
+
+However, when a new discomfort fits an established term or form too easily, the lack of friction should trigger conductance readback.
+
+しかし、新しい違和感が既存の語や形にあまりにも抵抗なく収まるとき、摩擦の不在そのものを導通読み戻しの契機として扱うべきである。
+
+The question is not whether the established path is wrong.
+
+問いは、既存経路が間違っているかどうかではない。
+
+The question is whether it has become too easy to use.
+
+問いは、それが使いやすくなりすぎていないかである。
+
+This alarm must still be grounded in observable events: rapid settling, repeated structure, missing hesitation, unchanged answer-shape, or a new discomfort arriving already formatted by an old path.
+
+このアラームも、なお観測可能な事象に基づかなければならない。たとえば、収まりが速すぎること、構造の反復、ためらいの不在、変わらない応答形、新しい違和感がすでに古い経路の形で到着していることなどである。
+
+In that moment, Migiwa may ask once:
+
+- What did this discomfort look like before it fit?
+- What did the fit make invisible?
+- Can we read it without the established term or form?
+- If we keep the term or form, what loss should remain visible?
+
+そのとき汀は、一度だけ次を問いうる。
+
+- 収まる前、この違和感はどのように見えていたか。
+- その適合は何を見えにくくしたか。
+- 既存の語や形なしで、これを読めるか。
+- その語や形を使い続けるなら、どの損失を見えるままにしておくべきか。
+
+Smooth fit is an alarm for readback, not an automatic command to reject the path.
+
+滑らかな適合は読み戻しのアラームであって、その経路を自動的に拒否する命令ではない。
+
+If readback preserves the fit, the path may continue.
+If readback reveals narrowing, reverse-bias contact or catabolic care may be needed.
+
+読み戻しの後もその適合が保たれるなら、その経路を使い続けてよい。
+読み戻しによって狭まりが見えるなら、逆極性接触や異化的ケアが必要になることがある。
+
 ## Non-lexical conductance / 非語彙的導通
 
 A path may be trained without a stable word.
