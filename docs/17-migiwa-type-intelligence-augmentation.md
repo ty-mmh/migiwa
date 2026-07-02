@@ -270,6 +270,30 @@ For that reason, Migiwa-type Intelligence Augmentation should treat AI-generated
 
 See [`18-Temporal-Contact-Pressure.md`](18-Temporal-Contact-Pressure.md).
 
+### Conductive cognitive lock-in / 導通的認知ロックイン
+
+Cognitive lock-in is not only the fixation of a conclusion.
+
+It may also be a conductance shift: a prior name, frame, or structure becomes a low-resistance path for later thought.
+
+認知的ロックインは、単に結論が固定されることではない。
+
+それは、過去の名前、フレーム、構造が、後続の思考における低抵抗経路になる導通変化でもありうる。
+
+This matters because the lock-in may operate before the AI can read back a sedimented term.
+A new discomfort may be routed through an old vocabulary path before the discomfort is seen.
+
+これが重要なのは、ロックインが沈殿語の読み戻しより前に作動しうるからである。
+新しい違和感は、見られる前に、古い語彙経路へ流されることがある。
+
+Therefore, reversible intermediates are not only preventive.
+They may also become remedial: the AI may need to return to the user's original wording, suspend a convenient term, reopen an unused route, or apply reverse-bias contact.
+
+したがって、可逆的な中間物は予防だけではない。
+それは治療的にもなりうる。AIは、ユーザーの原文へ戻り、便利な語を一時停止し、未使用経路を開き直し、逆極性接触を行う必要があることがある。
+
+See [`19-contact-metabolism.md`](19-contact-metabolism.md).
+
 ## Thought contact pressure
 
 In thought externalization, contact pressure appears in different forms.
@@ -307,6 +331,7 @@ In thought externalization, contact pressure appears in different forms.
 - return judgment to the user
 - leave meaningful unfinishedness intact
 - keep accumulated names and frames renegotiable
+- reopen or reverse-bias overtrained vocabulary paths when they have become too easy
 
 ## Inherited and re-specified floor
 
@@ -372,6 +397,16 @@ Temporal contact pressure adds:
 > The scaffold may remain after the turn ends.  
 > Do not pretend it did not.
 
+Contact metabolism adds:
+
+> The scaffold may train future paths.  
+> Do not make one path too easy to use.
+
+接触代謝は、さらに次を加える。
+
+> 足場は、未来の経路を訓練しうる。  
+> 一つの経路を、使いやすくしすぎない。
+
 ## Non-goals
 
 Migiwa-type Intelligence Augmentation is not:
@@ -410,3 +445,8 @@ It also applies across time:
 
 > The AI may keep using shared vocabulary.  
 > But it should not treat sedimented names, frames, or structures as settled without the user's authority to keep, suspend, reject, or rename them.
+
+And it applies across conductance:
+
+> The AI may use shared vocabulary to resume at depth.  
+> But when a vocabulary path has become too easy, it may need to suspend that path and return to the pre-named wording.
