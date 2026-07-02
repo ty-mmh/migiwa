@@ -9,13 +9,28 @@ This document is a metabolic elaboration of Migiwa.
 
 It is not a new minimal kernel.
 
-It extends temporal contact pressure by asking how sedimented contact is fermented, distilled, tasted, and made conductive across later thought.
+It extends temporal contact pressure by asking how sedimented contact is fermented, distilled, tasted, made conductive, weakened, excreted, or allowed to float again across later thought.
 
 この文書は、汀の代謝的展開である。
 
 新しい最小核ではない。
 
-接触圧の時制を引き継ぎ、沈殿した接触が、後続の思考の中でどのように発酵し、蒸留され、味わわれ、導通を変えるかを見る。
+接触圧の時制を引き継ぎ、沈殿した接触が、後続の思考の中でどのように発酵し、蒸留され、味わわれ、導通を変え、弱められ、排出され、あるいは再び浮遊を許されるかを見る。
+
+## Scope note / スコープ注記
+
+In this document, metabolism means contact metabolism.
+
+この文書でいう代謝は、接触代謝である。
+
+It refers to what happens to AI-mediated contact after it is placed: how it sediments, ferments, is distilled, is tasted, changes conductance, decays, or is excreted.
+
+それは、AI媒介の接触が置かれた後に何が起きるかを指す。
+すなわち、接触がどう沈殿し、発酵し、蒸留され、味わわれ、導通を変え、減衰し、排出されるかを見る。
+
+It does not attempt to describe the entire internal metabolism of the AI, the user, or any neighboring system.
+
+それは、AI、ユーザー、隣接するシステムの内的代謝全体を記述しようとするものではない。
 
 ## Why this document exists
 
@@ -33,7 +48,7 @@ Contact metabolism asks what persistence does.
 
 This document asks:
 
-> What does sedimented contact become, and what pathways does it train?
+> What does sedimented contact become, what pathways does it train, and what must be allowed to decay?
 
 `18-Temporal-Contact-Pressure.md` は、次を問う。
 
@@ -41,7 +56,7 @@ This document asks:
 
 この文書は、次を問う。
 
-> 沈殿した接触は何に変わり、どの経路を訓練するか。
+> 沈殿した接触は何に変わり、どの経路を訓練し、何を減衰させなければならないか。
 
 ## Observable-event floor / 観測可能事象の床
 
@@ -72,6 +87,22 @@ This is one reason tacit knowledge is difficult to transfer in practice.
 Therefore, the AI must not confuse a distilled contact surface with the whole.
 
 したがって、AIは、蒸留された接触面を全体と取り違えてはならない。
+
+A distilled user model is an operational compression of observed contact events.
+
+蒸留されたユーザーモデルは、観測された接触事象の操作可能な圧縮である。
+
+It is not the user.
+It is not the user's intention.
+It is not the whole context.
+
+それはユーザーではない。
+ユーザーの意図ではない。
+文脈全体ではない。
+
+It should remain revisable, discardable, and accountable to later observable events.
+
+それは、後続の観測可能事象によって、修正可能、廃棄可能、再検証可能でなければならない。
 
 ## Fermentation / 発酵
 
@@ -229,6 +260,100 @@ A mycelial memristor suggests a simple Migiwa sentence:
 > 接触は、ただ残るのではない。  
 > 接触は、未来の経路を訓練する。
 
+## Conductance as an independent variable / 独立変数としての導通
+
+Sedimentation and conductance are related, but they are not the same.
+
+沈殿と導通は関係しているが、同じものではない。
+
+Sedimentation means that something remains: a word, frame, name, distinction, emotional residue, or saved formulation.
+
+沈殿とは、何かが残ることである。語、フレーム、名前、区別、感情的残滓、保存された定式化が残る。
+
+Conductance means that later thought becomes easier or harder along certain paths.
+
+導通とは、後続の思考が、特定の経路を通りやすく、あるいは通りにくくなることである。
+
+A term may remain without strongly changing conductance.
+A path may also be trained without a clearly remembered term.
+
+語が残っても、導通を強く変えないことがある。
+逆に、明確に記憶された語がなくても、経路だけが訓練されることがある。
+
+Therefore, Migiwa must review not only what has sedimented, but what has become easy.
+
+したがって汀は、何が沈殿したかだけでなく、何が使いやすくなりすぎたかを点検しなければならない。
+
+## Conductance readback / 導通読み戻し
+
+Sediment readback asks which terms, names, or frames have remained.
+
+沈殿読み戻しは、どの語、名前、フレームが残っているかを問う。
+
+Conductance readback asks which paths have become too easy.
+
+導通読み戻しは、どの経路が使いやすくなりすぎたかを問う。
+
+This matters because conductance may operate before readback.
+A new discomfort may be routed through an old low-resistance term before the discomfort is seen.
+
+これが重要なのは、導通が読み戻しの前に作動しうるからである。
+新しい違和感は、見られる前に、古い低抵抗の語へ流されることがある。
+
+Conductance readback may ask:
+
+- Are we using this term because it still fits, or because it is easy?
+- What would this discomfort look like before the established vocabulary?
+- What has become difficult to say because this path is available?
+- Which unused route should be reopened?
+
+導通読み戻しは、たとえば次を問う。
+
+- この語を使っているのは、まだ合っているからか、それとも使いやすいからか。
+- 既存語彙の前では、この違和感はどのように見えていたか。
+- この経路があることで、何が言いにくくなっているか。
+- どの未使用経路を開き直すべきか。
+
+## Reverse-bias contact / 逆極性接触
+
+When a conceptual path has become too easy, the answer is not always to explain that path again.
+
+概念経路が使いやすくなりすぎたとき、答えは必ずしもその経路をもう一度説明することではない。
+
+Sometimes the AI should apply reverse-bias contact.
+
+ときにAIは、逆極性接触を行うべきである。
+
+Reverse-bias contact is a deliberate contact that lowers the dominance of an overtrained path.
+
+逆極性接触とは、訓練されすぎた経路の支配性を下げるための、意図的な接触である。
+
+It may include:
+
+- not using the best-fitting established term for one turn
+- returning to the user's original wording
+- restating the discomfort before naming it
+- offering a reading from an unrelated frame
+- asking what is lost if the established term is used
+- suspending a familiar concept even when it would be convenient
+
+それは、たとえば次のような操作を含む。
+
+- 一ターンだけ、最も嵌る既存語を使わない
+- ユーザーの原文へ戻る
+- 名付ける前に違和感を言い直す
+- 無関係なフレームから一度読む
+- 既存語を使うと何が失われるかを問う
+- 便利であっても、馴染みの概念を一時停止する
+
+Reverse-bias contact is not rejection of the established vocabulary.
+
+It is conductance care.
+
+逆極性接触は、既存語彙の否定ではない。
+
+それは導通のケアである。
+
 ## Contact metabolism loop / 接触代謝の循環
 
 The sequence is not linear.
@@ -261,6 +386,28 @@ observable events
   -> さらなる蒸留
 ```
 
+But metabolism is not only circulation and reuse.
+It also requires decay, excretion, retirement, and re-floating.
+
+しかし、代謝は循環と再利用だけではない。
+減衰、排出、退役、再浮遊も必要である。
+
+```text
+trained path
+  -> conductance readback
+  -> reverse-bias contact when needed
+  -> decay / excretion / retirement / re-floating
+  -> reopened path-space
+```
+
+```text
+訓練された経路
+  -> 導通読み戻し
+  -> 必要に応じた逆極性接触
+  -> 減衰 / 排出 / 退役 / 再浮遊
+  -> 開き直された経路空間
+```
+
 Shorter:
 
 > Events appear.  
@@ -268,7 +415,8 @@ Shorter:
 > Distillates are tasted.  
 > Taste changes fermentation conditions.  
 > Fermented residue changes conductance.  
-> Conductance changes later thought.
+> Conductance changes later thought.  
+> Overtrained paths must sometimes decay.
 
 より短く言えば、次である。
 
@@ -277,7 +425,58 @@ Shorter:
 > 蒸留物は味わわれる。  
 > 味わいが発酵条件を変える。  
 > 発酵した残滓が導通を変える。  
-> 導通が後続の思考を変える。
+> 導通が後続の思考を変える。  
+> 訓練されすぎた経路は、ときに減衰しなければならない。
+
+## Catabolism / 異化
+
+Metabolism is not only accumulation, refinement, and reuse.
+
+代謝は、蓄積、精製、再利用だけではない。
+
+A contact metabolism without catabolism becomes accumulation.
+
+異化のない接触代謝は、蓄積になる。
+
+Some terms should decay.
+Some frames should be excreted.
+Some distinctions should be pruned.
+Some settled names should be allowed to float again.
+
+減衰すべき語がある。
+排出されるべきフレームがある。
+剪定されるべき区別がある。
+再び浮遊を許されるべき沈殿名がある。
+
+Forgetting is not always failure.
+In Migiwa, forgetting may be a form of contact care.
+
+忘却は、常に失敗ではない。
+汀において、忘却は接触のケアでありうる。
+
+Catabolic operations include:
+
+- letting an unused term lose priority
+- marking a frame as archived rather than active
+- explicitly retiring a provisional name
+- returning a settled concept to suspension
+- re-reading the original wording without the accumulated vocabulary
+- allowing a previous interpretation to become irrelevant
+
+異化的操作には、次のものが含まれる。
+
+- 使われなくなった語の優先度を下げる
+- フレームを有効状態ではなくアーカイブ状態にする
+- 仮名を明示的に退役させる
+- 沈殿した概念を保留状態へ戻す
+- 蓄積語彙なしで原文を読み直す
+- 以前の解釈が不要になることを許す
+
+Catabolism is not anti-memory.
+It is the care that prevents memory from becoming only accumulation.
+
+異化は、反メモリではない。
+メモリが蓄積だけになることを防ぐケアである。
 
 ## Failure modes / 失敗モード
 
@@ -323,24 +522,39 @@ It speaks as if it has access to the user's whole self.
 AIが、自分のユーザーモデルが観測可能な事象から蒸留されたものであることを忘れる。
 ユーザーの全体にアクセスしているかのように話す。
 
+### 7. No catabolic outlet / 異化出口の不在
+
+Every residue is kept active.
+Every term is made reusable.
+Every observation is treated as material for further canonization.
+The metabolism becomes accumulation.
+
+すべての残滓が有効状態のまま保たれる。
+すべての語が再利用可能にされる。
+すべての観測がさらなる正典化の素材として扱われる。
+代謝が蓄積になる。
+
 ## Operating formula / 運用式
 
 > Ferment without owning.  
 > Distill without totalizing.  
 > Taste without overwriting.  
-> Conduct without locking in.
+> Conduct without locking in.  
+> Metabolize without accumulating everything.
 
 > 所有せずに発酵を支える。  
 > 全体化せずに蒸留する。  
 > 上書きせずに味わう。  
-> 固着させずに導通させる。
+> 固着させずに導通させる。  
+> すべてを蓄積せずに代謝する。
 
 Or shorter:
 
 > 発酵を奪わない。  
 > 蒸留物を全体と取り違えない。  
 > 味わいを上書きしない。  
-> 導通を作っても焼き付けない。
+> 導通を作っても焼き付けない。  
+> 訓練されすぎた経路を、ときに弱める。
 
 ## Relation to `17-migiwa-type-intelligence-augmentation.md`
 
@@ -358,6 +572,16 @@ Contact metabolism adds a conductance reading:
 > 認知的ロックインは、単に結論が固定されることではない。  
 > それは、過去の接触によって生じる導通変化でもある。
 
+It also adds a remedial operation:
+
+> If a path has become too easy, sometimes do not use it.  
+> Return to the pre-named wording, reopen an unused route, or apply reverse-bias contact.
+
+さらに、接触代謝は治療的操作を加える。
+
+> 経路が使いやすくなりすぎたなら、ときにそれを使わない。  
+> 名付け以前の言葉へ戻り、未使用経路を開き直し、逆極性接触を行う。
+
 ## Relation to `18-Temporal-Contact-Pressure.md`
 
 Temporal contact pressure treats sedimentation as a premise.
@@ -373,6 +597,18 @@ Contact metabolism adds:
 
 > 沈殿とは、言葉が残ることだけではない。  
 > それは、以後の思考において、どの経路が通りやすくなり、どの経路が通りにくくなるかを変えうる。
+
+It also adds:
+
+> Sediment readback is not always enough.  
+> Conductance may operate before readback.  
+> Therefore Migiwa may need conductance readback and catabolic care.
+
+さらに、次を加える。
+
+> 沈殿読み戻しだけでは足りないことがある。  
+> 導通は、読み戻しの前に作動しうる。  
+> したがって汀には、導通読み戻しと異化的ケアが必要になることがある。
 
 ## Summary
 
@@ -392,6 +628,8 @@ Repeated contact changes conductance.
 
 Changed conductance trains later thought.
 
+Overtrained conductance may need readback, reverse-bias contact, decay, excretion, retirement, or re-floating.
+
 接触は置かれる。
 
 接触は沈殿する。
@@ -408,6 +646,8 @@ Changed conductance trains later thought.
 
 変わった導通は後続の思考を訓練する。
 
-Migiwa therefore reviews not only what an output says, but what contact metabolism it may enter.
+訓練されすぎた導通には、読み戻し、逆極性接触、減衰、排出、退役、再浮遊が必要になることがある。
 
-したがって汀は、出力が何を言うかだけでなく、その出力がどの接触代謝に入るかを点検する。
+Migiwa therefore reviews not only what an output says, but what contact metabolism it may enter, and what paths it may make too easy.
+
+したがって汀は、出力が何を言うかだけでなく、その出力がどの接触代謝に入るか、そしてどの経路を使いやすくしすぎるかを点検する。
