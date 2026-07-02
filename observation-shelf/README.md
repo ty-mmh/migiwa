@@ -36,6 +36,20 @@ But they should not be treated as canonical merely because they are placed in th
 観測棚の文書は、後に正典文書、調査ノート、プレイブック、リリースノート、外部向けエッセイの素材になりうる。
 しかし、このリポジトリに置かれていること自体によって、正典として扱われるべきではない。
 
+Not every observation should be distilled into canon.
+
+すべての観測が正典へ蒸留されるべきではない。
+
+Some observations should remain dated.
+Some should decay.
+Some should be contradicted by later observations.
+Some should be archived as traces of a past contact surface.
+
+日付入りのまま残るべき観測がある。
+減衰すべき観測がある。
+後の観測によって反証されるべき観測がある。
+過去の接触面の痕跡としてアーカイブされるべき観測がある。
+
 ## Naming
 
 Each observation should include a date.
