@@ -105,6 +105,7 @@ AIが自分の出力候補を一度対象化し、それがユーザーを通じ
 ### Temporal layer / 時間層
 
 - [`docs/18-Temporal-Contact-Pressure.md`](docs/18-Temporal-Contact-Pressure.md) — Temporal Contact Pressure / 接触圧の時制
+- [`docs/19-contact-metabolism.md`](docs/19-contact-metabolism.md) — Contact Metabolism / 接触代謝
 
 ---
 
@@ -137,6 +138,13 @@ AIが自分の出力候補を一度対象化し、それがユーザーを通じ
 > 弱く決める。  
 > 思考を外部化する。  
 > 判断を返す。
+
+### Observation shelf / 観測棚
+
+日付入りの世界差分・周辺観測・正典化前の観測記録を置く棚。
+
+- [`observation-shelf/`](observation-shelf/) — Observation Shelf / 観測棚
+- [`observation-shelf/2026-07-02-ai-world-diff.md`](observation-shelf/2026-07-02-ai-world-diff.md) — Migiwa and the AI World: Observation as of 2026-07-02
 
 ### Prompts
 
