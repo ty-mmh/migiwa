@@ -218,6 +218,26 @@ It may also hide drift in that common ground.
 滑らかな継続は、よく保たれた共通認識から生じることがある。
 しかし同時に、その共通認識のズレを隠すこともある。
 
+Common-ground drift may occur on both sides.
+
+共通認識の時制ズレは、両側で起こりうる。
+
+For the human, premises may change through lived non-dialogue time.
+
+人間側では、前提は非対話時間を生きることで変化しうる。
+
+For the AI, premises may change through lossy memory, context truncation, retrieval, or reconstruction.
+
+AI側では、前提は損失的なメモリ、文脈切断、検索、再構成によって変化しうる。
+
+An AI resumption may therefore be reconstruction wearing the face of continuity.
+
+したがってAIの再開は、継続の顔をした再構成であることがある。
+
+Smooth resumption should not rely only on the AI's reconstructed sense of shared context.
+
+滑らかな再開は、AIの再構成された共有文脈の感覚だけに依存すべきではない。
+
 Therefore, when resuming a high-context exchange, Migiwa should not ask only whether the prior vocabulary remains useful.
 It should also ask whether the premises that made the vocabulary, form, or working pressure useful are still shared.
 
@@ -471,6 +491,12 @@ The AI continues smoothly from shared vocabulary or form while the premises that
 
 AIが、共有語彙や共有された形から滑らかに継続するが、その語彙や形を有用にしていた前提は変化している。
 
+### 8. Reconstruction-as-continuity / 継続の顔をした再構成
+
+The AI resumes smoothly from reconstructed memory, retrieval, or compressed context as if the common ground had simply continued.
+
+AIが、再構成された記憶、検索、圧縮された文脈から滑らかに再開し、共通認識がそのまま継続していたかのように振る舞う。
+
 ## Summary
 
 Migiwa does not accurately measure contact pressure.
@@ -482,6 +508,8 @@ Contact pressure is constituted in the recipient's field of stakes.
 The AI estimates from the non-staked side.
 
 The human lives non-dialogue time.
+
+The AI may reconstruct context from lossy memory, retrieval, or external artifacts.
 
 Therefore Migiwa distributes dose handling across time:
 
@@ -501,13 +529,15 @@ Contact metabolism adds that sedimentation may change conductance:
 - 沈殿読み戻しは、どの言葉が残っているかを問う
 - 導通読み戻しは、どの経路が使いやすくなりすぎたかを問う
 
-Common-ground drift adds that smooth continuation may depend on premises that have changed:
+Common-ground drift adds that smooth continuation may depend on premises that have changed or been reconstructed:
 
 - premise readback asks whether the shared ground that makes the continuation smooth is still shared
+- corpus-based synchronization asks whether the reconstructed context matches externalized traces
 
-共通認識の時制ズレは、滑らかな継続が、すでに変化した前提に依存していることがあると加える。
+共通認識の時制ズレは、滑らかな継続が、すでに変化した、あるいは再構成された前提に依存していることがあると加える。
 
 - 前提読み戻しは、その継続を滑らかにしている共有基盤がなお共有されているかを問う
+- コーパスに基づく同期は、再構成された文脈が外部化された痕跡と合っているかを問う
 
 Migiwa is not a meter.
 
