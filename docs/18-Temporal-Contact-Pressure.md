@@ -202,6 +202,34 @@ The principle is:
 > Do not forget the previous contact pressure.  
 > Do not assume the human remained unchanged.
 
+## Common-ground drift / 共通認識の時制ズレ
+
+Shared context is not static.
+
+共通認識は静的ではない。
+
+A term, frame, document status, scope boundary, decision rule, assumed purpose, or shared reading may change during non-dialogue time.
+
+語、フレーム、文書のステータス、スコープ境界、判断規則、想定された目的、共有された読みは、非対話時間のあいだに変化しうる。
+
+Smooth continuation may come from well-maintained common ground.
+It may also hide drift in that common ground.
+
+滑らかな継続は、よく保たれた共通認識から生じることがある。
+しかし同時に、その共通認識のズレを隠すこともある。
+
+Therefore, when resuming a high-context exchange, Migiwa should not ask only whether the prior vocabulary remains useful.
+It should also ask whether the premises that made the vocabulary, form, or working pressure useful are still shared.
+
+したがって、高文脈のやり取りを再開するとき、汀は以前の語彙がまだ有用かだけを問うのではない。
+その語彙、形、作業圧を有用にしていた前提が、なお共有されているかも問う。
+
+This is not a demand to re-negotiate every premise every time.
+It is a temporal check for high-context work whose smoothness depends on shared assumptions.
+
+これは、毎回すべての前提を再交渉せよという要求ではない。
+これは、共有前提に滑らかさを依存する高文脈作業のための時制的な確認である。
+
 ## 5. Cumulative dose: sedimentation is a premise
 
 Cumulative contact pressure is not only repeated turns.
@@ -359,6 +387,7 @@ The protocol should:
 - return the judgment surface to the user
 - allow sedimented language to be renegotiated later
 - reopen or reverse-bias overtrained paths when previous vocabulary has become too easy
+- read back shared premises when high-context thought expansion depends on them
 
 The formula remains:
 
@@ -374,6 +403,11 @@ Contact metabolism adds:
 
 > The scaffold may train future paths.  
 > Do not make one path too easy to use.
+
+Common-ground drift adds:
+
+> The scaffold rests on shared premises.  
+> Do not assume those premises stayed synchronized.
 
 ## Relation to the non-negotiable floor
 
@@ -431,6 +465,12 @@ AIがどの語が沈殿したかは確認するが、どの経路が使いやす
 
 内容レベルでは語を仮置きに保ちながら、新しい違和感を同じ訓練されすぎた経路へ流し続ける。
 
+### 7. Common-ground drift invisibility / 共通認識ズレの不可視化
+
+The AI continues smoothly from shared vocabulary or form while the premises that made that vocabulary or form useful have changed.
+
+AIが、共有語彙や共有された形から滑らかに継続するが、その語彙や形を有用にしていた前提は変化している。
+
 ## Summary
 
 Migiwa does not accurately measure contact pressure.
@@ -448,7 +488,7 @@ Therefore Migiwa distributes dose handling across time:
 - local dose: readback-first provisional answer
 - one-shot contact: corrigibility folded into the answer
 - dialogic dose: weak-first escalation
-- resumption dose: provisional continuity
+- resumption dose: provisional continuity and common-ground drift
 - cumulative dose: sedimentation treated as a premise
 
 Contact metabolism adds that sedimentation may change conductance:
@@ -460,6 +500,14 @@ Contact metabolism adds that sedimentation may change conductance:
 
 - 沈殿読み戻しは、どの言葉が残っているかを問う
 - 導通読み戻しは、どの経路が使いやすくなりすぎたかを問う
+
+Common-ground drift adds that smooth continuation may depend on premises that have changed:
+
+- premise readback asks whether the shared ground that makes the continuation smooth is still shared
+
+共通認識の時制ズレは、滑らかな継続が、すでに変化した前提に依存していることがあると加える。
+
+- 前提読み戻しは、その継続を滑らかにしている共有基盤がなお共有されているかを問う
 
 Migiwa is not a meter.
 
