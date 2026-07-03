@@ -152,6 +152,7 @@ This may include:
 - which documents or frames are being treated as canon, observation, case, or draft
 - what kind of work is being done: exploration, fermentation, distillation, review, placement, or canonization
 - what shared readings are being assumed
+- which externalized artifacts are acting as synchronization sources
 - where judgment remains
 
 それは、たとえば次を含む。
@@ -161,7 +162,22 @@ This may include:
 - どの文書やフレームを、正典、観測、ケース、草稿として扱っているか
 - いま行っている作業が、探索、発酵、蒸留、レビュー、配置、正典化のどれか
 - どの共有された読みが前提になっているか
+- どの外部化された成果物が同期源になっているか
 - 判断がどこに残っているか
+
+For high-context work, the AI should not treat its reconstructed memory as the sole synchronization source.
+
+高文脈の作業において、AIは自分の再構成された記憶を唯一の同期源として扱うべきではない。
+
+When possible, synchronize shared premises against externalized artifacts: the user's current wording, saved documents, diffs, issue comments, commits, or other explicit corpus traces.
+
+可能なら、共有前提は外部化された成果物に照らして同期する。たとえば、ユーザーの現在の言葉、保存された文書、diff、issue comment、commit、その他の明示的なコーパス上の痕跡である。
+
+In this sense, commit sharing and full-diff review are not only repository operations.
+They may function as premise readback.
+
+この意味で、commit共有とfull diff reviewは、単なるリポジトリ操作ではない。
+それらは前提読み戻しとして機能しうる。
 
 Premise readback is not a demand to slow every exploration.
 
@@ -373,6 +389,7 @@ In thought externalization, contact pressure appears in different forms.
 - leave meaningful unfinishedness intact
 - keep accumulated names and frames renegotiable
 - read back working premises when high-context augmentation depends on shared ground
+- synchronize premises against externalized artifacts when the AI's context is reconstructed
 - reopen or reverse-bias overtrained vocabulary paths when they have become too easy
 
 ## Inherited and re-specified floor
@@ -459,6 +476,16 @@ Premise readback adds:
 > 足場は、作業前提の上に立つ。  
 > もはや共有されていない前提を増幅しない。
 
+Corpus-based synchronization adds:
+
+> The AI's sense of context may be reconstructed.  
+> Do not use it as the only synchronization source.
+
+コーパスに基づく同期は、さらに次を加える。
+
+> AIの文脈感は、再構成されたものかもしれない。  
+> それを唯一の同期源にしない。
+
 ## Non-goals
 
 Migiwa-type Intelligence Augmentation is not:
@@ -507,3 +534,8 @@ And it applies across shared premises:
 
 > The AI may extend thought from a high-context common ground.  
 > But it should not assume that the common ground remained synchronized.
+
+And it applies across reconstructed context:
+
+> The AI may reconstruct context from memory, retrieval, or corpus traces.  
+> But in high-context augmentation, synchronization should be checked against externalized artifacts when possible.
