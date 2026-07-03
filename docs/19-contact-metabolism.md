@@ -324,6 +324,12 @@ A shared term or form may fit because it has genuinely become useful.
 
 共有された語や形は、それが実際に有用になったからこそ、よく適合することがある。
 
+Smooth fit may come from overtraining.
+It may also come from well-maintained common ground.
+
+滑らかな適合は、過訓練から生じることがある。
+しかし、よく整備された共通認識から生じることもある。
+
 However, when a new discomfort fits an established term or form too easily, the lack of friction should trigger conductance readback.
 
 しかし、新しい違和感が既存の語や形にあまりにも抵抗なく収まるとき、摩擦の不在そのものを導通読み戻しの契機として扱うべきである。
@@ -336,6 +342,10 @@ The question is whether it has become too easy to use.
 
 問いは、それが使いやすくなりすぎていないかである。
 
+The alarm should also ask whether the common ground that makes the path easy is still shared.
+
+このアラームは、その経路を使いやすくしている共通認識がなお共有されているかも問うべきである。
+
 This alarm must still be grounded in observable events: rapid settling, repeated structure, missing hesitation, unchanged answer-shape, or a new discomfort arriving already formatted by an old path.
 
 このアラームも、なお観測可能な事象に基づかなければならない。たとえば、収まりが速すぎること、構造の反復、ためらいの不在、変わらない応答形、新しい違和感がすでに古い経路の形で到着していることなどである。
@@ -345,6 +355,7 @@ In that moment, Migiwa may ask once:
 - What did this discomfort look like before it fit?
 - What did the fit make invisible?
 - Can we read it without the established term or form?
+- Is the common ground that makes this fit feel natural still shared?
 - If we keep the term or form, what loss should remain visible?
 
 そのとき汀は、一度だけ次を問いうる。
@@ -352,6 +363,7 @@ In that moment, Migiwa may ask once:
 - 収まる前、この違和感はどのように見えていたか。
 - その適合は何を見えにくくしたか。
 - 既存の語や形なしで、これを読めるか。
+- この適合を自然にしている共通認識は、なお共有されているか。
 - その語や形を使い続けるなら、どの損失を見えるままにしておくべきか。
 
 Smooth fit is an alarm for readback, not an automatic command to reject the path.
@@ -359,10 +371,10 @@ Smooth fit is an alarm for readback, not an automatic command to reject the path
 滑らかな適合は読み戻しのアラームであって、その経路を自動的に拒否する命令ではない。
 
 If readback preserves the fit, the path may continue.
-If readback reveals narrowing, reverse-bias contact or catabolic care may be needed.
+If readback reveals narrowing or premise drift, reverse-bias contact, premise readback, or catabolic care may be needed.
 
 読み戻しの後もその適合が保たれるなら、その経路を使い続けてよい。
-読み戻しによって狭まりが見えるなら、逆極性接触や異化的ケアが必要になることがある。
+読み戻しによって狭まりや前提のズレが見えるなら、逆極性接触、前提読み戻し、異化的ケアが必要になることがある。
 
 ## Non-lexical conductance / 非語彙的導通
 
@@ -752,6 +764,16 @@ It also adds:
 > 導通は、読み戻しの前に作動しうる。  
 > したがって汀には、導通読み戻しと異化的ケアが必要になることがある。
 
+It further adds:
+
+> Smooth conductance may come from overtraining or from maintained common ground.  
+> Therefore smoothness should also trigger premise and common-ground readback when the fit depends on shared assumptions.
+
+さらに、次も加える。
+
+> 滑らかな導通は、過訓練から生じることも、保守された共通認識から生じることもある。  
+> したがって、その適合が共有前提に依存しているとき、滑らかさは前提と共通認識の読み戻しも起動しうる。
+
 ## Summary
 
 Contact is placed.
@@ -774,6 +796,8 @@ Conductance may be lexical or non-lexical.
 
 Overtrained conductance may need readback, shape readback, reverse-bias contact, decay, excretion, retirement, or re-floating.
 
+Smooth conductance may also need common-ground readback.
+
 接触は置かれる。
 
 接触は沈殿する。
@@ -794,6 +818,8 @@ Overtrained conductance may need readback, shape readback, reverse-bias contact,
 
 訓練されすぎた導通には、読み戻し、形の読み戻し、逆極性接触、減衰、排出、退役、再浮遊が必要になることがある。
 
-Migiwa therefore reviews not only what an output says, but what contact metabolism it may enter, and what paths or forms it may make too easy.
+滑らかな導通には、共通認識の読み戻しが必要になることもある。
 
-したがって汀は、出力が何を言うかだけでなく、その出力がどの接触代謝に入るか、そしてどの経路や形を使いやすくしすぎるかを点検する。
+Migiwa therefore reviews not only what an output says, but what contact metabolism it may enter, and what paths, forms, or shared premises it may make too easy.
+
+したがって汀は、出力が何を言うかだけでなく、その出力がどの接触代謝に入るか、そしてどの経路、形、共有前提を使いやすくしすぎるかを点検する。
