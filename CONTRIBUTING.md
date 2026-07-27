@@ -22,6 +22,17 @@
 6. 新しい failure mode として追加すべきか
 7. example / playbook として再利用できるか
 
+## Release metadata / リリース情報
+
+公開版の正本は、Git tag と `CHANGELOG.md` である。
+
+- `README.md` と `README.en.md` は、最新公開版と `main` の開発状態を表示する。
+- `CITATION.cff` は、最新公開版の版番号と公開日を反映する。
+- `TREE.md` は現在の `main` の構造を説明し、リリース版の正本にはしない。
+- このリポジトリでは、独立した `VERSION` ファイルを維持しない。
+- 過去の release tag は、後からメタデータを修正する目的で移動しない。
+- 版情報の不整合は `main` で修正し、必要に応じて `CHANGELOG.md` に記録する。
+
 ## Avoid
 
 - 汀を「優しいAI文体」に還元しない
