@@ -2,8 +2,8 @@ cff-version: 1.2.0
 title: "Migiwa: A Minimal Human-Contact Review Kernel for AI Systems"
 message: "If you use or cite Migiwa, please cite this repository and its release version."
 type: software
-version: "0.1.0"
-date-released: "2026-06-17"
+version: "0.3.0"
+date-released: "2026-06-30"
 authors:
   - name: "Migiwa Project contributors"
 repository-code: "https://github.com/ty-mmh/migiwa"
