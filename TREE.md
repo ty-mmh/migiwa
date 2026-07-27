@@ -3,7 +3,10 @@
 
 # Repository tree
 
-This file describes the repository structure as of **v0.2.0**.
+This file describes the current structure of the `main` branch.
+
+It is a structure guide, not a release-version authority.  
+For public release history, use Git tags and [`CHANGELOG.md`](CHANGELOG.md).
 
 ```text
 migiwa/
@@ -15,10 +18,10 @@ migiwa/
     MIT.txt
   NOTICE.md
   CITATION.cff
-  VERSION
   CHANGELOG.md
   CONTRIBUTING.md
   TREE.md
+  .gitattributes
   .gitignore
 
   docs/
@@ -42,22 +45,30 @@ migiwa/
     15-placement-lens.md
     16-runtime-examples.md
     17-migiwa-type-intelligence-augmentation.md
+    18-Temporal-Contact-Pressure.md
+    19-contact-metabolism.md
 
   prompts/
     compact.ja.md
     response-protocol.en.md
     response-protocol.ja.md
-    review.ja.md
     review.en.md
+    review.ja.md
     thought-externalization-protocol.en.md
     thought-externalization-protocol.ja.md
 
   playbooks/
     ai-deployment-review.md
     companion-safety-stress-test.md
-    institutional-handoff-review.md
     creative-taste-review.md
+    institutional-handoff-review.md
     thought-externalization.md
+
+  observation-shelf/
+    README.md
+    2026-07-02-ai-world-diff.md
+    2026-07-02-contact-metabolism-scene.md
+    2026-07-02-fable-5-review-contact-metabolism.md
 
   templates/
     migiwa-review-report.md
@@ -70,12 +81,11 @@ migiwa/
     related-work.md
 ```
 
-## Notes
+## Layer guide
 
 - `docs/00-minimal-kernel.md`, `docs/02-contact-pressure.md`, and `docs/06-failure-modes.md` form the core kernel surface.
 - `docs/13-response-protocol.md`, `docs/14-non-negotiable-floor.md`, `docs/15-placement-lens.md`, and `docs/16-runtime-examples.md` form the runtime layer.
-- `docs/17-migiwa-type-intelligence-augmentation.md`, `playbooks/thought-externalization.md`, and the thought-externalization prompts are the v0.2.0 derived protocol surface.
-
-## Not included in v0.2.0
-
-`docs/18-Temporal-Contact-Pressure.md` and the temporal-contact updates are later work and are intentionally not included in this v0.2.0 tree snapshot.
+- `docs/17-migiwa-type-intelligence-augmentation.md`, `playbooks/thought-externalization.md`, and the thought-externalization prompts form the derived thought-externalization surface.
+- `docs/18-Temporal-Contact-Pressure.md` is the temporal elaboration shared by original Migiwa and Migiwa-type Intelligence Augmentation.
+- `docs/19-contact-metabolism.md` extends temporal contact pressure into fermentation, distillation, taste, conductance, and catabolic care.
+- `observation-shelf/` contains dated, non-canonical observations and provenance records.
