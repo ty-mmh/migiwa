@@ -5,7 +5,53 @@
 
 ## Unreleased
 
-Changes after v0.2.0 are intentionally not listed here yet.
+Changes on `main` after v0.3.0.
+
+Includes:
+
+- Contact Metabolism / 接触代謝
+- Observation Shelf / 観測棚
+- Conductance as distinct from sedimentation
+- Conductance readback and shape readback
+- Reverse-bias contact
+- Catabolism: decay, excretion, retirement, and re-floating
+- Non-lexical conductance
+- Smooth-fit alarm
+- Common-ground drift
+- AI-side reconstruction drift
+- Premise readback before intelligence augmentation
+- Corpus-based premise synchronization
+- Repository maintenance:
+  - synchronized release metadata
+  - updated the current repository tree
+  - retired the pre-v0.1.0 publication checklist
+  - defined release metadata authority in `CONTRIBUTING.md`
+
+## v0.3.0 — Temporal Contact Pressure
+
+Released: 2026-06-30
+
+Adds the temporal layer shared by original Migiwa and Migiwa-type Intelligence Augmentation.
+
+Includes:
+
+- Temporal Contact Pressure / 接触圧の時制
+- Recipient-constituted contact pressure
+- Contact-pressure estimation asymmetry
+- Human non-dialogue time
+- Post-contact persistence and sedimentation
+- Readback-first provisional answering
+- One-shot corrigibility
+- Weak-first escalation
+- Resumption contact pressure
+- Temporal and cumulative failure modes
+- Temporal updates to the runtime and thought-externalization layers
+- Japanese and English prompt updates for temporal contact and sedimentation
+
+Metadata note:
+
+- The v0.3.0 tag was created before all repository metadata files were synchronized.
+- The tag is preserved as published; later `main` maintenance corrects the metadata without moving the tag.
 
 ## v0.2.0 — Migiwa-type Intelligence Augmentation
 
