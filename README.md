@@ -21,18 +21,28 @@ AIにとって対話外の時間は観測されない間隔として現れうる
 
 ---
 
-## Public release
-
-Current public line:
+## Release status / 公開・開発状態
 
 ```text
-latest: v0.3.0
+latest public release: v0.3.0
+main: Unreleased changes after v0.3.0
 previous: v0.2.0
 initial: v0.1.0
 ```
 
+公開版の履歴は [`CHANGELOG.md`](CHANGELOG.md) と Git tag を正本とする。  
+`main` は最新公開版より後の未公開変更を含みうる。現在の構造は [`TREE.md`](TREE.md) を参照する。
+
 汀は希少性ではなく、来歴に依拠する。  
 このリポジトリは、汀の定義、語彙、レビュー核、適用例の正典として置かれる。
+
+---
+
+## Evaluation status / 評価状態
+
+このリポジトリには、概念文書、レビュー資材、ランタイム用プロンプト、プレイブック、説明用の例が含まれる。
+
+ランタイム導入による応答品質への効果について、実地評価はまだこのリポジトリに報告されていない。
 
 ---
 
